@@ -8,7 +8,6 @@ import JobItemDetails from './component/JobItemDetails'
 import ProtectedRoute from './component/ProtectedRoute'
 import NotFound from './component/NotFound'
 
-// Replace your code here
 const App = () => (
   <>
     <Switch>
