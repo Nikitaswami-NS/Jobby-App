@@ -1,22 +1,5 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, let's build a **Jobby App**
 
-### Refer to videos below:
-
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
-
-**Failure View** <br/>
-
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-failure-output-v1.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
 
 ### Design Files
 
@@ -75,8 +58,6 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 <details>
 <summary>Functionality to be added</summary>
 <br/>
-
-The app must have the following functionalities
 
 - **Login Route**
 
@@ -317,15 +298,6 @@ Returns a response containing the job details
 
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- To convert a list of items as a comma-separated string we can use the array method `join()`
-
-</details>
 
 ### Important Note
 
@@ -424,10 +396,7 @@ Returns a response containing the job details
 - Roboto
 </details>
 
-> ### _Things to Keep in Mind_
->
+> ### _Best Practice_
+> - To convert a list of items as a comma-separated string we can use the array method `join()`
 > - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-# Jobby-App
+
